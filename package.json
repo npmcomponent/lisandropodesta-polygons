@@ -1,0 +1,17 @@
+{
+  "name": "lisandropodesta-polygons",
+  "description": "HTML5 polygon drawing support",
+  "version": "0.0.1",
+  "keywords": [
+    "HTML5",
+    "canvas",
+    "polygon",
+    "ui"
+  ],
+  "dependencies": {
+    "component-autoscale-canvas": "git://github.com/npmcomponent/component-autoscale-canvas.git",
+    "lisandropodesta-canvas-tool": "git://github.com/npmcomponent/lisandropodesta-canvas-tool.git",
+    "lisandropodesta-type-tool": "git://github.com/npmcomponent/lisandropodesta-type-tool.git"
+  },
+  "license": "MIT"
+}
